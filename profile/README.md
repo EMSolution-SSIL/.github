@@ -19,19 +19,19 @@ SSIL develops simulation software and engineering tools for electromagnetic fiel
 
 Electromagnetic field analysis software based on the finite element method.
 
-### [eMotorSolution Documentation](https://github.com/EMSolution-SSIL/eMotorSolutionDoc)
+### [eMotorSolution](https://github.com/EMSolution-SSIL/eMotorSolutionDoc)
 
 <img width="191.625" height="58.125" alt="eMotorSolution_logo1" src="https://github.com/user-attachments/assets/8ace8863-e9b4-41ae-866e-48fb7536c46b" />
 
 Electric motor design and analysis software built around electromagnetic simulation.
 
-### [EMSOptimizer Documentation](https://emsolution-ssil.github.io/EMSOptimizerDoc/)
+### [EMSOptimizer](https://emsolution-ssil.github.io/EMSOptimizerDoc/)
 
 <img width="261.3" height="52.3" alt="EMSOptimizer_logo1" src="https://github.com/user-attachments/assets/39565e01-e7a9-4b44-a877-527c32261300" />
 
 Optimization software for CAE-driven design workflows.
 
-### [eMachineSim Documentation](https://github.com/EMSolution-SSIL/eMachineSimDocs)
+### [eMachineSim](https://github.com/EMSolution-SSIL/eMachineSimDocs)
 
 <img width="264.78" height="49.565" alt="emachinesim-logo" src="https://github.com/user-attachments/assets/107387f9-264d-4ddc-907a-579e558f98a3" />
 
