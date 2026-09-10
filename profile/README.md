@@ -13,11 +13,11 @@ and documentation that support our simulation and engineering ecosystem.
 
 SSIL develops simulation software and engineering tools for electromagnetic field analysis, electric machine design, optimization, and multiphysics CAE.
 
-### [EMSolution](https://emsolution-ssil.github.io/EMSolutionDocs/index.html)
+### [EMSolution : pyemsol (Python bind)](https://emsolution-ssil.github.io/EMSolutionDocs/index.html)
 
 <img width="232" height="54.5" alt="EM_logo_201110_w" src="https://github.com/user-attachments/assets/72b82835-9e91-40d9-94bc-01f3853faf3b" />
 
-Electromagnetic field analysis software based on the finite element method.
+Electromagnetic field analysis software based on the finite element method. `pyemsol` is the Python bind version with API.
 
 ### [eMotorSolution](https://github.com/EMSolution-SSIL/eMotorSolutionDoc)
 
