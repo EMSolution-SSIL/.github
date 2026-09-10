@@ -11,10 +11,10 @@ We develop and publish open-source tools for CAE and engineering workflows.
 ### Mesh and CAE Utilities
 
 - [pyemsi](https://github.com/EMSolution-SSIL/pyemsi)  
-  Python tools and utilities for EMSolution-related workflows.
+  Python tools for EMSolution data conversion and interactive 3D visualization with VTK and PyVista.
   
 - [ems_file_format_converter](https://github.com/EMSolution-SSIL/ems_file_format_converter)  
-  File format conversion utilities for CAE mesh and simulation data.
+  File format conversion tools for CAE mesh and simulation data, including ATLAS, UNV, Femap NEU, and Gmsh MSH formats.
 
 More open-source tools for mesh processing, mesh checking, and mesh morphing are under development.
 
@@ -30,5 +30,6 @@ Science Solutions International Laboratory, Inc. develops engineering software a
 
 For more information, please visit:
 
-https://www.ssil.co.jp/product/EMSolution/en/
-<- the site will be updated soon!
+[EMSolution / SSIL Website](https://www.ssil.co.jp/product/EMSolution/en/)
+
+> **Note:** Our website is currently being updated.
