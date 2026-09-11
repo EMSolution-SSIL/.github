@@ -39,17 +39,23 @@ Multiphysics simulation software for electric machines, including thermal and st
 
 Our GitHub organization provides open-source tools, utilities, examples, and documentation related to these engineering workflows.
 
-## Open Source Projects
+## Open Source and Source-Available Projects
 
-We develop and publish open-source tools for CAE and engineering workflows.
+We develop and publish open-source and source-available tools for CAE and engineering workflows.
 
 ### Mesh and CAE Utilities
 
 - [ems_mesh_checker](https://github.com/EMSolution-SSIL/ems_mesh_checker)  
   Mesh topology and Property-boundary extraction tools for finite-element models, with geometry reconstruction and export to DXF, Gmsh GEO, and Femap Neutral formats.
 
+- [ems_mesh_morpher](https://github.com/EMSolution-SSIL/ems_mesh_morpher)  
+  Mesh morphing tools for finite-element and EMSolution workflows, including prescribed motion, IDW, RBF, and Weighted Laplace propagation, conductor skin-layer generation, and pyemsol DEFORM coupling. Distributed as source-available software under PolyForm Perimeter 1.0.1.
+
 - [ems_file_format_converter](https://github.com/EMSolution-SSIL/ems_file_format_converter)  
   File format conversion tools for CAE mesh and simulation data, including ATLAS, UNV, Femap NEU, and Gmsh MSH formats.
+
+- [airgap_force_fft](https://github.com/EMSolution-SSIL/airgap_force_fft)  
+  Python post-processing tools for motor air-gap flux-density results, including Maxwell-stress force and torque evaluation and time-space harmonic analysis with two-dimensional FFT.
 
 - [pyemsi](https://github.com/EMSolution-SSIL/pyemsi)  
   Python tools for EMSolution data conversion and interactive 3D visualization with VTK and PyVista.
