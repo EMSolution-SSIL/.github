@@ -49,7 +49,7 @@ We develop and publish open-source and source-available tools for CAE and engine
   Mesh topology and Property-boundary extraction tools for finite-element models, with geometry reconstruction and export to DXF, Gmsh GEO, and Femap Neutral formats.
 
 - [ems_mesh_morpher](https://github.com/EMSolution-SSIL/ems_mesh_morpher)  
-  Mesh morphing tools for finite-element and EMSolution workflows, including prescribed motion, IDW, RBF, and Weighted Laplace propagation, conductor skin-layer generation, and pyemsol DEFORM coupling. Distributed as source-available software under PolyForm Perimeter 1.0.1.
+  Mesh morphing tools for finite-element and EMSolution workflows, including prescribed motion, IDW, RBF, and Weighted Laplace propagation, conductor skin-layer generation, and pyemsol DEFORM coupling.
 
 - [ems_file_format_converter](https://github.com/EMSolution-SSIL/ems_file_format_converter)  
   File format conversion tools for CAE mesh and simulation data, including ATLAS, UNV, Femap NEU, and Gmsh MSH formats.
@@ -59,6 +59,9 @@ We develop and publish open-source and source-available tools for CAE and engine
 
 - [pyemsi](https://github.com/EMSolution-SSIL/pyemsi)  
   Python tools for EMSolution data conversion and interactive 3D visualization with VTK and PyVista.
+
+- [EMS_MaterialManager](https://github.com/EMSolution-SSIL/EMS_MaterialManager)  
+  Material data management and exchange tool for EMSolution workflows, released under the PolyForm Perimeter License. It supports material registration, validation, reuse, and canonical JSON-based exchange for engineering data.
 
 Additional open-source tools for mesh processing and mesh morphing are under development.
 
