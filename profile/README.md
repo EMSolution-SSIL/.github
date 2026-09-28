@@ -19,7 +19,7 @@ SSIL develops simulation software and engineering tools for electromagnetic fiel
 
 Electromagnetic field analysis software based on the finite element method. `pyemsol` is the Python bind version with API.
 
-### [eMotorSolution](https://github.com/EMSolution-SSIL/eMotorSolutionDoc)
+### [eMotorSolution](https://emsolution-ssil.github.io/eMotorSolutionDoc/)
 
 <img width="191.625" height="58.125" alt="eMotorSolution_logo1" src="https://github.com/user-attachments/assets/8ace8863-e9b4-41ae-866e-48fb7536c46b" />
 
@@ -31,7 +31,7 @@ Electric motor design and analysis software built around electromagnetic simulat
 
 Optimization software for CAE-driven design workflows.
 
-### [eMachineSim](https://github.com/EMSolution-SSIL/eMachineSimDocs)
+### [eMachineSim](https://emsolution-ssil.github.io/eMachineSimDocs/)
 
 <img width="264.78" height="49.565" alt="emachinesim-logo" src="https://github.com/user-attachments/assets/107387f9-264d-4ddc-907a-579e558f98a3" />
 
