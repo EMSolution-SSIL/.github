@@ -62,6 +62,14 @@ CAEおよびエンジニアリングワークフローのためのオープン�
 
 このほか、メッシュ処理やメッシュモーフィングに関するオープンなエンジニアリングツールを継続して開発しています。
 
+### EMSolution JSON ツール
+
+- [ems_input_json_reader](https://github.com/EMSolution-SSIL/ems_input_json_reader)
+  EMSolutionの`input.json`を本体の実行前に静的検査するPythonツールです。確定した設定エラーと、まだ完全には検査できない項目を区別して報告します。PolyForm Perimeter License 1.0.1でソース公開しています。
+
+- [ems_output_json_reader](https://github.com/EMSolution-SSIL/ems_output_json_reader)
+  `output.json`のポスト結果から指定したデータをCSVに出力し、独立した画面で二次元グラフを表示するMITライセンスのPythonツールです。
+
 ## SSILについて
 
 株式会社サイエンスソリューションズ（Science Solutions International Laboratory, Inc.）は、電磁界解析および電動機設計を中心に、エンジニアリングソフトウェアと数値シミュレーション技術を開発しています。

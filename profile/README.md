@@ -65,6 +65,14 @@ We develop and publish open-source and source-available tools for CAE and engine
 
 Additional open-source tools for mesh processing and mesh morphing are under development.
 
+### EMSolution JSON Tools
+
+- [ems_input_json_reader](https://github.com/EMSolution-SSIL/ems_input_json_reader)
+  Source-available Python checker for EMSolution `input.json`. It reports definite setting errors and settings that cannot yet be fully checked without running EMSolution. Licensed under PolyForm Perimeter 1.0.1.
+
+- [ems_output_json_reader](https://github.com/EMSolution-SSIL/ems_output_json_reader)
+  MIT-licensed Python tool for exporting selected `output.json` post-processing results to CSV and plotting them in a standalone 2D window.
+
 ## About SSIL
 
 Science Solutions International Laboratory, Inc. develops engineering software and numerical simulation technologies, with a focus on electromagnetic field analysis and electric machine design.
