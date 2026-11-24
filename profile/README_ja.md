@@ -68,7 +68,7 @@ CAEおよびエンジニアリングワークフローのためのオープン�
 
 詳しくは以下をご覧ください。
 
-[EMSolution / SSIL Webサイト](https://www.ssil.co.jp/product/EMSolution/en/)
+[EMSolution / SSIL Webサイト](https://www.emsolution-ssil.com/)
 
 > **注:** 現在、Webサイトを更新中です。
 
